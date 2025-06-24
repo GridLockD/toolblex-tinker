@@ -1,0 +1,12 @@
+
+# App logo:
+- assets/gfx/logos/logo.svg                     // Emeric Grange // CC0
+
+# Others:
+- assets/gfx/logos/github.svg                   // https://github.com/logos // proprietary
+- assets/gfx/logos/gitlab.png                   // https://about.gitlab.com/press // proprietary
+
+# Vendors database:
+- vendors/ble-manufacturer-ids.csv              // https://www.bluetooth.com
+- vendors/ble-service-uuids.csv                 // https://www.bluetooth.com
+- vendors/mac-vendors.csv                       // https://maclookup.app

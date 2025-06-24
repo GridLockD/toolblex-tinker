@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>gfx/logos/logo.svg</file>
+        <file>gfx/logos/icon.svg</file>
+        <file>gfx/logos/splash.svg</file>
+        <file>gfx/logos/github.svg</file>
+        <file>gfx/logos/pattern_ble.png</file>
+    </qresource>
+</RCC>
