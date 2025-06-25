@@ -1,3 +1,7 @@
+
+This is not my own code, I am holding it here while working on it, All credits go to the original creator of this amazing project. 
+
+
 # ![toolBLEx](assets/gfx/logos/banner.svg)
 
 [![GitHub release](https://img.shields.io/badge/release-0.13-blue?style=flat-square)](https://github.com/emericg/toolBLEx/releases)
